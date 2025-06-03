@@ -1,6 +1,6 @@
 <?php
 
-// Iniciar sesión
+// Iniciar sesión hh
 if (session_status() == PHP_SESSION_NONE) {
     session_start();
 }
